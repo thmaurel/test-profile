@@ -1,0 +1,67 @@
+/* Write some CSS below */
+body {
+  background-color: rgba(200, 200, 200, 0.3);
+}
+
+h1 {
+  color: #095256;
+  font-size: 48px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  color: #095256;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+#btn-contact {
+  color: white;
+  background-color: #9A0E7B;
+  text-decoration: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+#btn-contact:hover {
+  background-color: red;
+}
+
+p {
+  font-family: Overpass;
+  font-size: 23px;
+  font-weight: lighter;
+  color: #00A9A5;
+}
+
+.container {
+  width: 700px;
+  margin: auto;
+}
+
+.card {
+  box-shadow: 1px 1px 10px rgb(180, 180, 180);
+  padding: 10px 60px;
+  text-align:center;
+  margin: 20px 0;
+  background-color: white;
+}
+
+.avatar {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+
+.contact-list {
+  list-style: none;
+}
+
+.contact-list-item {
+  display: inline;
+  font-size: 32px;
+}
+
+.icon-color {
+  color: red;
+}
